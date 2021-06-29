@@ -11,3 +11,5 @@ class KyoukaiIndexSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
+
+
